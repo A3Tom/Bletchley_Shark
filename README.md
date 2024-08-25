@@ -28,7 +28,8 @@ The approach for this system is to use a message broker queue to form public key
 - [ ] Producers must broadcast their availability
 - [ ] Consumers must communicate with producers to form an encryption key
 - [ ] Encrypted messages must be able to be exchanged and decrypted between Producers and Consumers
-- [ ] All encryption algorthims used must be written from scratch
+- [ ] All encryption algorithms used must be written from scratch
+    **Important restriction**: AI must only be used to understand the algorithm, not used to write **any** code at all
 
 ### Bonus Points
 - [ ] Both teams must have their own HQs and their own spy intel
