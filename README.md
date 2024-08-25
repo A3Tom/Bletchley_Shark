@@ -62,6 +62,10 @@ The approach for this system is to use a message broker queue to form public key
         - [ ] Consumer
     
 
+## Conceptual overview
+
+![conceptual-overview](/resources/conceptual-architecture.jpg)
+
 ## Getting Started
 
 
