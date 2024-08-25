@@ -22,14 +22,14 @@ The approach for this system is to use a message broker queue to form public key
 
 ### MVP
 
+- [ ] All encryption algorithms used must be written from scratch  
+    **Important restriction**: AI must only be used to understand the algorithm, not used to write **any** code at all
 - [ ] All services running in docker containers
 - [ ] All Producers and Consumers must be uniquely identifiable 
 - [ ] All Producers and Consumers must be assigned to a team
 - [ ] Producers must broadcast their availability
 - [ ] Consumers must communicate with producers to form an encryption key
 - [ ] Encrypted messages must be able to be exchanged and decrypted between Producers and Consumers
-- [ ] All encryption algorithms used must be written from scratch  
-    **Important restriction**: AI must only be used to understand the algorithm, not used to write **any** code at all
 
 ### Bonus Points
 - [ ] Both teams must have their own HQs and their own spy intel
