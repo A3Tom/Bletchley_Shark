@@ -34,17 +34,29 @@ The approach for this system is to use a message broker queue to form public key
 - [ ] Emulate radar output as communication form
 - [ ] Usage of geographical coordinates to formulate communication regions
 - One bonus point for any additional consumer or producers using the following languages:
-    - P [ ] / C [ ] : Python
+    - Python
+        - [ ] Producer
+        - [ ] Consumer
 
 ### Super Bonus Points 
 - [ ] Multiple encryption methods to pick from
 - [ ] A web app to display all of this visually
-- One super bonus point for any additional consumer or producers using the following languages:
-    - P [ ] / C [ ] : Rust
-    - P [ ] / C [ ] : Java
-    - P [ ] / C [ ] : Scala
-    - P [ ] / C [ ] : NodeJS
-    - P [ ] / C [ ] : C++  
+- One super bonus point for any additional consumer or producer using the following languages:
+    - Rust
+        - [ ] Producer
+        - [ ] Consumer
+    - Java
+        - [ ] Producer
+        - [ ] Consumer
+    - Scala
+        - [ ] Producer
+        - [ ] Consumer
+    - NodeJS
+        - [ ] Producer
+        - [ ] Consumer
+    - C++  
+        - [ ] Producer
+        - [ ] Consumer
     
 
 ## Getting Started
