@@ -1,6 +1,0 @@
-@BletchlyShark.Encryption_HostAddress = http://localhost:5222
-
-GET {{BletchlyShark.Encryption_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
