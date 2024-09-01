@@ -14,6 +14,9 @@ The approach for this system is to use a message broker queue to form public key
     - .Net
 - Consumers:
     - .Net
+- Encryption:
+    - .Net
+    - Python
 - Datastores:
     - MongoDB
     - DynamoDB
@@ -36,31 +39,43 @@ The approach for this system is to use a message broker queue to form public key
 - [ ] Both teams must have their own HQs and their own spy intel
 - [ ] Emulate radar output as communication form
 - [ ] Usage of geographical coordinates to formulate communication regions
-- One bonus point for any additional consumer or producers using the following languages:
+- One bonus point for any additional consumer, producers or encryption service using the following languages:
     - Python
         - [ ] Producer
         - [ ] Consumer
+        - [ ] Encryption
 
 ### Super Bonus Points 
 - [ ] Multiple encryption methods to pick from
 - [ ] A web app to display all of this visually
-- One super bonus point for any additional consumer or producer using the following languages:
+- One super bonus point for any additional consumer, producer or encryption service using the following languages:
     - Rust
         - [ ] Producer
         - [ ] Consumer
+        - [ ] Encryption
     - Java
         - [ ] Producer
         - [ ] Consumer
+        - [ ] Encryption
     - Scala
         - [ ] Producer
         - [ ] Consumer
+        - [ ] Encryption
     - NodeJS
         - [ ] Producer
         - [ ] Consumer
+        - [ ] Encryption
     - C++  
         - [ ] Producer
         - [ ] Consumer
-    
+        - [ ] Encryption
+- One super bonus point for each of the implemented encryption algorithms. One point per implementation, per language.
+    - [ ] Single XOR encrypt
+    - [ ] Caeser Cipher
+    - [ ] AES-128
+    - [ ] AES-192
+    - [ ] AES-256
+    - [ ] RSA
 
 ## Conceptual overview
 
